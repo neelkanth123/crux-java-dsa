@@ -5,7 +5,7 @@ public class basics {
 	public static void main(String[] args) {
 	int a = 10;
 	int b = 20;
-	int add = a  / b;
+	int add = b / a;
 	
 	System.out.println("mod is " + add);
 	
