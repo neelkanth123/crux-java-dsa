@@ -1,0 +1,15 @@
+package session3;
+
+public class greatestofthreenos {
+	public static void main(String[] args) {
+	int eng = 82;
+	int maths = 33;
+	if(eng >= 90 && maths >= 80) {
+		System.out.println(" you will get choco");
+	}
+	else {
+		System.out.println("you will get a slap");
+	}
+	
+	}
+}
