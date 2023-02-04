@@ -1,0 +1,12 @@
+package session3;
+
+public class loops {
+public static void main(String[] args) {
+	int i = 1;
+	while(i <= 5) {
+		System.out.println( i + " hello world");
+		i = i + 1;
+	}
+	System.out.println(i + " we are outside loop"); // this run because it was outside the loop
+}
+}
