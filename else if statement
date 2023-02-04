@@ -1,0 +1,19 @@
+package session3;
+
+public class elseif {
+	public static void main(String[]args) {
+		int oranges = 1;
+		int banana = 1;
+		int mangoe = 1;
+		
+		if(oranges > 10) 
+			System.out.println("buy oranges");
+		else if(banana > 12)System.out.println("buy banana");
+		else if(mangoe > 15) System.out.println("buy mangoe");
+		
+		else {
+			System.out.println("come back home");
+		}
+	}
+
+}
