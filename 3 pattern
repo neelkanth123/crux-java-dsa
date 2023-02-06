@@ -1,0 +1,24 @@
+package session4;
+
+public class pattern2 {
+	public  static void main(String [] args) {
+		int row = 1;
+		while( row <= 5) {
+			int i = 1;
+			while( i <= 5) {
+				System.out.print(" * ");
+				i+=1;
+			}
+			System.out.println();
+			row+=1;
+		}
+}
+}
+
+output 
+
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
