@@ -1,0 +1,8 @@
+outer loops for only - rows, count the number of lines
+
+inner loops for only - columns and connect them somehow to rows
+
+print the star inside the inner for loops
+
+observe symmetry
+
